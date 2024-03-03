@@ -1,4 +1,4 @@
-<p>Some Email Templates Design by me. Useing HTML</p>
+<p>Some Email Templates Design by me. Using HTML</p>
 
 ## Installation
 
